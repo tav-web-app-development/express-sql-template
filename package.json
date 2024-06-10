@@ -12,5 +12,8 @@
     "express": "^4.19.2",
     "pg": "^8.11.5",
     "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "prisma": "^5.15.0"
   }
 }
